@@ -1,0 +1,19 @@
+Styles.css
+body {
+    background-color: rgb(67, 101, 188);
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header, footer {
+    text-align: center;
+    margin: 10px;
+}
+
+main {
+    width: 300px;
+}
