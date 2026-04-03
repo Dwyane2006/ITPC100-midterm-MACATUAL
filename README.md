@@ -1,1 +1,3 @@
-# ITPC100-midterm-MACATUAL
+# ITPC100-midterm-MACATUAL/
+index.html
+styles.css
